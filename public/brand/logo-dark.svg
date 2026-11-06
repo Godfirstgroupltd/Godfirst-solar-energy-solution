@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 80" fill="none">
+  <!-- Dolphin Inside Broken Circle G Emblem -->
+  <g transform="translate(10, 5) scale(0.7)">
+    <!-- Broken Circle G Contour -->
+    <path d="M 50 5 A 45 45 0 1 0 95 50 L 95 42 A 8 8 0 0 0 87 34 L 55 34 A 6 6 0 0 0 49 40 L 49 46 A 4 4 0 0 0 53 50 L 75 50 A 25 25 0 1 1 50 25 A 25 25 0 0 1 73 31 L 82 23 A 38 38 0 0 0 50 12" fill="#F5F5F0" />
+    <!-- Embossed Filigree Arch Details -->
+    <path d="M 50 16 A 34 34 0 1 0 84 50 A 34 34 0 0 0 78 35" stroke="#F5F5F0" stroke-width="1.5" stroke-dasharray="3 3" opacity="0.6" fill="none" />
+    <!-- Sculpted Leaping Dolphin inside G -->
+    <path d="M 32 60 C 28 48 30 32 45 25 C 53 21 62 23 68 28 C 65 30 58 31 52 35 C 47 38 44 44 43 51 C 42 57 37 60 32 60 Z" fill="#F5F5F0" />
+    <path d="M 50 26 C 54 28 58 32 58 38 C 55 37 51 36 47 38 C 45 34 47 28 50 26 Z" fill="#F5F5F0" opacity="0.85" />
+    <!-- Dolphin Snout and Forehead -->
+    <path d="M 68 28 C 72 30 76 32 78 34 C 75 35 71 34 68 32 C 67 30 67 29 68 28 Z" fill="#F5F5F0" />
+    <!-- Dolphin Dorsal Fin -->
+    <path d="M 45 25 C 43 20 40 17 38 15 C 41 18 43 21 45 25 Z" fill="#F5F5F0" />
+    <!-- Dolphin Pectoral Fin -->
+    <path d="M 53 37 C 56 41 57 46 54 49 C 52 47 51 43 53 37 Z" fill="#F5F5F0" />
+    <!-- Dolphin Fluke / Tail -->
+    <path d="M 32 60 C 27 63 22 67 19 72 C 22 68 27 66 31 65 C 30 67 28 72 26 76 C 29 72 32 67 34 62 Z" fill="#F5F5F0" />
+  </g>
+  <!-- Typography Lockup: GODFIRST GROUP LTD + Division Subtitle -->
+  <text x="88" y="38" font-family="'Sora', 'Georgia', serif" font-size="21" font-weight="700" letter-spacing="0.14em" fill="#F5F5F0">GODFIRST</text>
+  <text x="90" y="52" font-family="'Inter', sans-serif" font-size="8" font-weight="300" letter-spacing="0.28em" fill="#A89F91">GROUP LTD</text>
+  <line x1="90" y1="57" x2="250" y2="57" stroke="#A89F91" stroke-width="0.5" opacity="0.4" />
+  <text x="90" y="69" font-family="'Inter', sans-serif" font-size="8.5" font-weight="300" letter-spacing="0.24em" fill="#F5F5F0">SOLAR &amp; ENERGY</text>
+</svg>
